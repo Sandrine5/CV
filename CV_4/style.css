@@ -1,0 +1,264 @@
+  .container-fluid{
+  background-image: url(img/papier2.jpg);
+}
+
+.nom{
+  font-family: 'Amatic SC', cursive;
+  font-size: 90px;
+  line-height: 160px;
+  letter-spacing: 5px;
+  text-align: center;
+  color: rgb(142, 144, 149);
+}
+
+.fond{
+  background-image: url("img/aquarelle.png");
+  width: 215px;
+  height: 215px;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+.border{
+  border: 2px dashed rgba(142, 144, 149,0.40);
+}
+
+.accroche{
+  font-family: 'Raleway', sans-serif;
+  font-size: 18px;
+  font-style: italic;
+  color: rgba(7, 113, 226, 0.85);
+  text-align: center;
+  /*line-height: 250px;*/
+}
+
+.black{
+  background-color: black;
+}
+
+.blue{
+  background-color: rgb(153, 177, 205);
+  /*border: 2px solid black;*/
+}
+
+.blue2{
+  background: rgba(170, 186, 204, 0.85);
+}
+
+.grey{
+  background-color: rgb(160, 160, 177);
+}
+
+.grey2{
+  background-color: rgb(142, 144, 149);
+  color: #fff;
+}
+
+.lightgrey{
+  background: rgba(198, 200, 201, 0.85);
+}
+
+.white{
+  color: #fff;
+}
+
+.centrer{
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.centrerDeux{
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+
+.height180{
+  height: 180px;
+}
+
+.height100{
+  height: 100px;
+}
+
+.height20{
+  height: 20px;
+}
+
+.marginbottom20{
+  margin-bottom: 20px;
+}
+
+.marginbottom50{
+  margin-bottom: 50px;
+}
+
+.marginbottom80{
+  margin-bottom: 80px;
+}
+
+.marginbottom100{
+  margin-bottom: 100px;
+}
+
+.marginbottom125{
+  margin-bottom: 125px;
+}
+
+.marginbottom150{
+  margin-bottom: 150px;
+}
+
+.margintop60{
+  margin-top: 60px;
+}
+
+.margintop140{
+  margin-top: 140px;
+}
+
+.margintop180{
+  margin-top: 180px;
+}
+
+.margintop20{
+  margin-top: 20px;
+}
+
+h1{
+  text-align: center;
+  line-height: 140px;
+}
+
+.autre{
+  font-family: 'Amatic SC', cursive;
+  font-size: 30px;
+  text-align: center;
+  line-height: 35px;
+  padding-top: 62px;
+}
+
+h2{
+  text-align: center;
+  line-height: 140px;
+}
+
+.para{
+  font-family: 'Amatic SC', cursive;
+  font-size: 30px;
+  text-align: center;
+  line-height: 45px;
+  padding-top: 78px;
+}
+
+.para2{
+  font-family: 'Amatic SC', cursive;
+  color: rgb(142, 144, 149);
+  font-size: 30px;
+  text-align: center;
+  line-height: 45px;
+  padding-top: 72px;
+}
+
+a.link{
+  color: rgb(142, 144, 149);
+  text-decoration : none;
+}
+
+a:hover{
+  color: #fff;
+  font-size: 38px;
+  /*font-weight: bold;*/
+}
+
+#sectionUn{
+  background: rgba(194, 210, 227, 0.85);
+}
+
+#sectionDeux{
+  background: rgb(153, 177, 205);
+}
+
+#sectionTrois{
+  background: rgba(198, 200, 201, 0.85);
+}
+
+#sectionQuatre{
+  background: rgb(142, 144, 149);
+}
+
+.comp{
+  font-family: 'Amatic SC', cursive;
+  font-size: 50px;
+  line-height: 65px;
+}
+
+.comp2{
+  font-family: 'Raleway', sans-serif;
+  font-size: 20px;
+  line-height: 65px;
+}
+
+.info{
+  font-family: 'Raleway', sans-serif;
+  text-align: center;
+}
+
+.date{
+  font-family: 'Raleway', sans-serif;
+  font-size: 18px;
+  text-align: center;
+  color: #fff;
+  line-height: 15px;
+  }
+
+  .date2{
+    font-family: 'Raleway', sans-serif;
+    font-size: 18px;
+    text-align: center;
+    color: #fff;
+    line-height: 15px;
+    }
+
+
+.texte{
+  font-family: 'Raleway', sans-serif;
+  font-size: 15px;
+  color: #fff;
+  line-height: 15px;
+}
+
+.texte2{
+  font-family: 'Raleway', sans-serif;
+  font-size: 15px;
+  color: black;
+  line-height: 15px;
+}
+
+
+.interet{
+  line-height: 110px;
+}
+
+.icon-plhdr{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-top: 28px;
+}
+
+.border2{
+  border-left: 2px dashed white;
+  height: 200px;
+  margin-left: 157px;
+}
+
+.paddingRight220{
+  padding-right: 220px;
+}
+
+.paddingRight115{
+  padding-right: 115px;
+}
